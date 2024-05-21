@@ -1,0 +1,32 @@
+/* Nav */
+#nav-bar{
+    padding-left: 30px
+}
+.navbar-brand{
+    font-size: 1.6em;
+}
+
+/* Main content */
+#page-title{
+    font-size: 1.4em;
+    margin: 20px auto;
+}
+.col-md, .col-sm-6, .col-sm-12{
+    padding-bottom: 16px;
+}
+#main-content{
+    padding: 12px 30px;
+}
+.menu-title{
+    font-size: 1.2em;
+    margin: 10px auto 5px;
+}
+.menu-tile{
+    background-color: rgb(179, 179, 179);
+    padding: 10px;
+}
+.menu-tile .bottom{
+    margin: 10px 0px 5px;
+    position: relative;
+    height:20px;
+}
